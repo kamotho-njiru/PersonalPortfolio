@@ -14,6 +14,9 @@
 }
 
 .Contacts {
-    border-top-right-radius: 50% 50%;
-    ;
+    float: right;
+    position: absolute;
+    top: 80px;
+    right: 0;
+    vertical-align: super;
 }
