@@ -10,4 +10,9 @@ The portfolio shows my most valuable projects and hobbies
  # Technology used
  HTML
  CSS
- 
+
+ # Photos
+etty-fidele-VNYCIbZju0o-unsplash(1).jpg
+
+# License
+MIT License copyright
