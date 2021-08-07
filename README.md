@@ -8,4 +8,6 @@ The portfolio shows my most valuable projects and hobbies
  You can access a live link for this project by github.com/kamotho-njiru/personalportfolio
 
  # Technology used
+ HTML
+ CSS
  
