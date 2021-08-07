@@ -12,3 +12,8 @@
     height: 100%;
     margin-left: -50px;
 }
+
+.Contacts {
+    border-top-right-radius: 50% 50%;
+    ;
+}
